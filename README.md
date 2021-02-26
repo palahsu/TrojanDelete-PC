@@ -8,7 +8,7 @@ As its name suggests, it is a trojan. Or at least, half of it is.
 # Requirements to Use:
 This program uses MS-DOS batch programming, along with Visual Basic. On a said computer, the Windows Command Prompt(cmd.exe) must be present, along with wscript.exe or cscript.exe to run the Visual Basic. which is literally every default windows installation xD shush.
 
-# What this repository contains...
+# Contains:
 The repository has two folders:
 1) The "'Source' code" folder which contains the source code of the project. This includes the two batch files which are the "cleaning" utilities, and the "Assets" folder, which contain the preliminary warning that will open before running the destructive version, and the two icons which will be injected in the "compiled" batch executables.
 
