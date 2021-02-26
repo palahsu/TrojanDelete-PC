@@ -6,8 +6,7 @@ As its name suggests, it is a trojan. Or at least, half of it is.
   - The "clean" version will actually help one delete unneeded files from their computer, such as cache of the three major browsers, log and error reporting files Windows makes, etc. For a full list, please see the source code. However, it will still do a fake scan(tree command) to make it look more official ¯\\\_(ツ)\_/¯.
   
 # Requirements to Use:
-This program uses MS-DOS batch programming, along with Visual Basic. On a said computer, the Windows Command Prompt(cmd.exe) must be present, along with wscript.exe or cscript.exe to run the Visual Basic.
-<sub>which is literally every default windows installation xD shush<sub>
+This program uses MS-DOS batch programming, along with Visual Basic. On a said computer, the Windows Command Prompt(cmd.exe) must be present, along with wscript.exe or cscript.exe to run the Visual Basic. which is literally every default windows installation xD shush.
 
 # What this repository contains...
 The repository has two folders:
@@ -31,3 +30,4 @@ For any kind of help, support, payment, donate, suggestion and request ask me on
 </p><p align="left"> 
 
 > **Disclaimer**<a name="disclaimer" />: Please note that this is a research project. I am by no means responsible for any usage of this tool. Use it on your behalf. I am not responsible if your accounts are banned due to extensive use of this tool. I am not responsible for any damages, this scripts and tools only for testing purpose. Everything here in this repository has been made for educational purposes, with the more destructive aspects of it assumed to only be viewed and/or ran in a controlled testing environment only. I do ***NOT*** enourage people to do something like this themselves/to themselves. ***NEVER*** use malware, or anything that is, but no limited to, malware, anything remotely capable of destroying computers, or even "joke programs" *on your own or other people's computers*, not even with their consent, as this can have bad, unforeseen consequences. Thanks.
+
