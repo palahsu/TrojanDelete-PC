@@ -10,8 +10,9 @@ This program uses MS-DOS batch programming, along with Visual Basic. On a said c
 
 # What this repository contains...
 The repository has two folders:
-  1) The "'Source' code" folder which contains the source code of the project. This includes the two batch files which are the "cleaning" utilities, and the "Assets" folder, which contain the preliminary warning that will open before running the destructive version, and the two icons which will be injected in the "compiled" batch executables.
-  2) The "Compiled Project" folder which contains the compiled project. The two batch files have been "converted"(more like wrapped tbh) into executables. In the "Assets" folder, the warning which will pop up before running the destructive version of PC Optimizer Pro has been encoded into a .vbe file. The icons are still provided in the "Assets" folder. 
+1) The "'Source' code" folder which contains the source code of the project. This includes the two batch files which are the "cleaning" utilities, and the "Assets" folder, which contain the preliminary warning that will open before running the destructive version, and the two icons which will be injected in the "compiled" batch executables.
+
+2) The "Compiled Project" folder which contains the compiled project. The two batch files have been "converted"(more like wrapped tbh) into executables. In the "Assets" folder, the warning which will pop up before running the destructive version of PC Optimizer Pro has been encoded into a .vbe file. The icons are still provided in the "Assets" folder. 
   
 # Note:
 The uncompiled "destructive" batch file references to "Warning.vb**s**" in the code. The compiled "destructive" executable must reference to the encrypted warning "Warning.vb**e**" for the warning to correctly work. To solve this, one must change the warning local file link to the correct name before compiling, and then placing the correct compiled .vbe file in the correct directory(Assets). Although I have done such in the compiled folder, please note this when compiling this yourself(for whatever reason lol). I don't know what happen after run this. It's Modified Script by Unknown.
