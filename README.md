@@ -1,7 +1,7 @@
 # TrojanDelete-PC
 
 ## What is TrojanDelete-PC
-As its name suggests, it is a trojan. Or at least, half of it is. 
+As its name suggests, it is a trojan. Or at least, half of it is 💀
   - The "destructive" version will pretend to be a windows PC cleaning utility, scanning for unneeded files, and then prompting the user to delete them. This will result in the user will unwittingly deleting their system32 folder, as an internet meme xD.
   - The "clean" version will actually help one delete unneeded files from their computer, such as cache of the three major browsers, log and error reporting files Windows makes, etc. For a full list, please see the source code. However, it will still do a fake scan(tree command) to make it look more official ¯\\\_(ツ)\_/¯.
   
